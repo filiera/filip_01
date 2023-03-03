@@ -4,5 +4,6 @@ public class Main {
         nieee a = new nieee();
         a.numer = 2;
         System.out.print(a.numer);
+        //niewiem
     }
 }
